@@ -1,3 +1,6 @@
 Este es un archivo creado para probar GIT
 
-Esta oración la añadí para el tercer commit
+oracion borrada...
+
+Borro la oracion anterior porque no se debe usar acento ni virgulilla
+sino aparecen simbolos raros
